@@ -11,6 +11,7 @@ pnpm-lock.yaml
 *.conf
 
 .husky
+package-lock.json
 
 Dockerfile
 LICENSE
